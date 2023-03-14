@@ -5,15 +5,24 @@ using UnityEngine;
 public class PlayerMovment : MonoBehaviour
 {
 
+    
+
 
     public CharacterController controller;
 
     public float speed = 12f;
     public float gravity = -9.81f;
+    public Rigidbody rb;
+
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+    }
 
     public Transform groundCheck;
     public float groundDistance = 0.4f;
     public LayerMask groundMask;
+    
 
     Vector3 velocity;
     bool isGrounded;
@@ -41,5 +50,14 @@ public class PlayerMovment : MonoBehaviour
 
         controller.Move(velocity * Time.deltaTime);
 
+
+
+
+
+        rb.AddForce(new Vector3(0, 5, 0), ForceMode.Impulse);
     }
+    
+    
+
+
 }
