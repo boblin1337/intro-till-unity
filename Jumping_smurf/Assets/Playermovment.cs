@@ -55,7 +55,9 @@ public class PlayerMovment : MonoBehaviour
         {
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
-
+        /*
+         ölkdsafjsdaölfds öljöldsjf ösaödjföslkafgödsalk ödjhgad jhgfd lkjhdskflkjhfdskjf hlkjsdfhd ijshdfl
+        */
 
 
         rb.AddForce(new Vector3(0, 5, 0), ForceMode.Impulse);
