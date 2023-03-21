@@ -362,6 +362,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/MouseLook.cs"
+"Assets/ObstacleCoursePack/Controller/CameraManager.cs"
+"Assets/ObstacleCoursePack/Controller/CharacterControls.cs"
+"Assets/ObstacleCoursePack/Scripts/Bounce.cs"
+"Assets/ObstacleCoursePack/Scripts/FallPlat.cs"
+"Assets/ObstacleCoursePack/Scripts/FPSDisplay.cs"
+"Assets/ObstacleCoursePack/Scripts/KillZone.cs"
+"Assets/ObstacleCoursePack/Scripts/MovableObs.cs"
+"Assets/ObstacleCoursePack/Scripts/Pendulum.cs"
+"Assets/ObstacleCoursePack/Scripts/Rotator.cs"
+"Assets/ObstacleCoursePack/Scripts/SavePos.cs"
+"Assets/ObstacleCoursePack/Scripts/WallMovable.cs"
 "Assets/PlayerMovment.cs"
 -langversion:9.0
 
