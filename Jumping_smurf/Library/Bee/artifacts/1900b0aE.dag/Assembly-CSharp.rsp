@@ -361,6 +361,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Lava.cs"
 "Assets/MouseLook.cs"
 "Assets/ObstacleCoursePack/Controller/CameraManager.cs"
 "Assets/ObstacleCoursePack/Controller/CharacterControls.cs"
@@ -408,6 +409,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+"Assets/Timer.cs"
 -langversion:9.0
 
 /deterministic
