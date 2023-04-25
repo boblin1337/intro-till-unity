@@ -374,6 +374,7 @@
 "Assets/ObstacleCoursePack/Scripts/Rotator.cs"
 "Assets/ObstacleCoursePack/Scripts/SavePos.cs"
 "Assets/ObstacleCoursePack/Scripts/WallMovable.cs"
+"Assets/PlayButton.cs"
 "Assets/PlayerMovment.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

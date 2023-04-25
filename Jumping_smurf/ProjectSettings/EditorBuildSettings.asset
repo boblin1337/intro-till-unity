@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Playmeny.unity
+    guid: 3659218ed44a7cb40a6d306ac00e075a
+  - enabled: 1
+    path: Assets/jumping_smurf.unity
+    guid: 685b59d77941565478045b9ecb4d8a93
   m_configObjects: {}
