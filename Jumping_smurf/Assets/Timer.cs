@@ -36,6 +36,11 @@ public class Timer : MonoBehaviour
     void Update()
     {
 
+        if(move.start == false)
+        {
+
+        }
+
         if(move.start)
         { 
         currentTime = countDown ? currentTime -= Time.deltaTime : currentTime += Time.deltaTime;
